@@ -1,4 +1,4 @@
-#To Do List Android Application
+# To Do List Android Application
 <br>
 This is a ToDo list application that can be used to create, edit, and delete
 tasks. This app is made through Recycler View, Card View, and uses the SQLite database
